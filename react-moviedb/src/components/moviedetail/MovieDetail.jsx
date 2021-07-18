@@ -202,52 +202,51 @@ const similarMovieList = similarMovie.slice(0, 4).map((item, index) => {
 <div className="row mt-3 mb-5">
     <div className="col-md-8 col-sm-6" style={{color: '#5a606b'}}>
         <h3>ABOUT ME</h3>
-        <p>CSDJIDSKNDKGMKLDSFKLGNFKDNGDFNGKJSDNKNSDK</p>
-        <p>fgdgfisdlmgkldnfgnfdkngfdjgnfkdngkdfnkggfkn</p>
-        <ul className="list-inline">
+        <p>Jean Francois Lagos</p>
+        <p>Web Developer</p>
+       <ul className="list-inline">
             <li className="list-inline-item">
-                <a href="/" style={{color: '#f4c10f'}}>
+                <a href="https://www.facebook.com" target="_blank" style={{color: '#f4c10f'}}>
                     <i className="fab fa-facebook"></i>
                 </a>
             </li>
             <li className="list-inline-item">
-                <a href="/" style={{color: '#f4c10f'}}>
+                <a href="https://www.youtube.com" target="_blank" style={{color: '#f4c10f'}}>
                     <i className="fab fa-youtube"></i>
                 </a>
             </li><li className="list-inline-item">
-                <a href="/" style={{color: '#f4c10f'}}>
+                <a href="https://www.twitter.com" target="_blank" style={{color: '#f4c10f'}}>
                     <i className="fab fa-twitter"></i>
                 </a>
             </li><li className="list-inline-item">
-                <a href="/" style={{color: '#f4c10f'}}>
+                <a href="https://www.instagram.com" target="_blank" style={{color: '#f4c10f'}}>
                     <i className="fab fa-instagram"></i>
                 </a>
             </li>
-        </ul>
+        </ul> 
     </div>
     <div className="col-md-4 col-sm-6" style={{color: '#5a606b'}}>
-        <h3>KEEP IN TOUCH </h3>
+        <h3>KEEP IN TOUCH</h3>
         <ul className="list-unstyled">
-            <li>
-                <p>
-                    <strong>
-                        <i className="fas fa-map-marker-alt"></i> Adress: </strong>city, 
-                        state, country
-                </p>
-            </li>
-            <li>
-                <p>
-                    <strong>
-                        <i className="fas fa-map-marker-alt"></i> Phone:</strong> +3334534656 
-                        state, country
-                </p>
-            </li><li>
-                <p>
-                    <strong>
-                        <i className="fas fa-envelope"></i> Email:</strong> info@infomail.com
-                    
-                </p>
-            </li>
+        <li>
+                        <p>
+                            <strong>
+                                <i className="fas fa-map-marker-alt"></i> Address: </strong>Barcelona
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <strong>
+                                <i className="fas fa-map-marker-alt"></i> Phone:</strong> +3334534656 
+                            
+                        </p>
+                    </li><li>
+                        <p>
+                            <strong>
+                                <i className="fas fa-envelope"></i> Email:</strong> Lagosjf@gmail.com
+                            
+                        </p>
+                    </li>
         </ul>
     </div>
 </div>
